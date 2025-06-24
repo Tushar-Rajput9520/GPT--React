@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -72,3 +73,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 =======
 # GPT3-with-React
 >>>>>>> e7cff08fcf5fb1a8390becb1fcb674daef132fce
+=======
+# GPT--React
+>>>>>>> 8d1a9e2ec3fb7d2340dc58cd561d2e8369a16059
